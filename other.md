@@ -12,3 +12,6 @@
 
 `[]` defines a list; list elements must all be the same type
 `()` defines a tuple; tuples are of fixed length but can be of different types
+
+package.elm-lang.org is the elm package repository
+When a package is found, use elm-package install <username>/<packagename>
