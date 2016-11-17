@@ -9,3 +9,6 @@
 `|>` is eval left and pipe right (also function application)
 `<<` and `>>` are function composition pipeline operators (aka function composition)
 `\` is anonymous function operator
+
+`[]` defines a list; list elements must all be the same type
+`()` defines a tuple; tuples are of fixed length but can be of different types
